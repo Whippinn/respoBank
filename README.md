@@ -21,4 +21,4 @@ CREATE TABLE `respoBank`.`user` (
   `phoneNumber` VARCHAR(24) NOT NULL,
   `email` VARCHAR(200) NOT NULL,
   `password` VARCHAR(32) NOT NULL,
-  PRIMARY KEY (`iduser`));```
+  PRIMARY KEY (`iduser`));
